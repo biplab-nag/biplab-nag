@@ -4,6 +4,7 @@ A passionate developer from Bangladesh 🇧🇩
 - 👯 I’m looking to collaborate on open source project.
 - 💬 Ask me about my work, project, interest.
 
+<code><br></code>
 
 - **Programming Languages:** <code><a href=""><img height="18" style="max-width:100%;" src="https://github.com/biplab-nag/biplab-nag/blob/master/assets/kotlin.svg" alt="Kotlin"></a></code>
  <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/biplab-nag/biplab-nag/blob/master/assets/java.svg" alt="Java"></a></code>
@@ -39,6 +40,7 @@ A passionate developer from Bangladesh 🇧🇩
  <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/biplab-nag/biplab-nag/blob/master/assets/trello.svg" alt="Trello
 "></a></code>
    <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/biplab-nag/biplab-nag/blob/master/assets/slack.svg" alt="Slack"></a></code>
+   <code><a href=""><img height="20" style="max-width:100%;" src="https://github.com/biplab-nag/biplab-nag/blob/master/assets/terminal.svg" alt="Terminal"></a></code>
 
 - **How to reach me:**  <code><a href="https://www.linkedin.com/in/biplab-chandra-nag"><img height="20" style="max-width:100%;" src="https://github.com/biplab-nag/biplab-nag/blob/master/assets/linkedin.svg" alt="Linkedin"></a></code>
     <code><a href="mailto:biplab.diu@gmail.com"><img height="18" style="max-width:100%;" src="https://github.com/biplab-nag/biplab-nag/blob/master/assets/gmail.svg" alt="Gmail"></a></code>
@@ -46,4 +48,6 @@ A passionate developer from Bangladesh 🇧🇩
     <code><a href="https://join.skype.com/invite/rAQwT4L4iLoE"><img height="20" style="max-width:100%;" src="https://github.com/biplab-nag/biplab-nag/blob/master/assets/skype.svg" alt="Skype"></a></code>
     <code><a href="https://twitter.com/biplab_nag_"><img height="20" style="max-width:100%;" src="https://github.com/biplab-nag/biplab-nag/blob/master/assets/twitter.svg" alt="Twitter"></a></code>
     
+<code><br></code>
+
 ![Biplabs's github stats](https://github-readme-stats.vercel.app/api?username=biplab-nag&show_icons=true)
