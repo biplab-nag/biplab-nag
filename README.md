@@ -1,6 +1,6 @@
 ### Hi there I'm Biplab Chandra Nag 👋
 
-<h3 align="left">📫 How to reach me</h3>
+- **📫 How to reach me **
 <p align="left">
 <a href="https://www.linkedin.com/in/biplab-chandra-nag"><img  height="30" src="https://github.com/biplab-nag/biplab-nag/blob/master/assets/linkedin.svg" alt="Linkedin"style="max-width:100%;"></a>
 <a href="mailto:biplab.diu@gmail.com"><img  height="30" src="https://github.com/biplab-nag/biplab-nag/blob/master/assets/gmail.svg" alt="Gmail"style="max-width:100%;"></a>
